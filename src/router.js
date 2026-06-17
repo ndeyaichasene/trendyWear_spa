@@ -64,7 +64,7 @@ const render = async (path) => {
         }
     } catch (error) {
         console.error(`Erreur de chargement : ${error}`);
-        app.innerHTML = '<h1>Erreur technique</h1>';
+        app.innerHTML = '<h1>Erreur 404</h1>';
     }
 };
 

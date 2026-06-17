@@ -55,6 +55,30 @@
       "email": "binetou@gmail.com",
       "motDePasse": "binetou",
       "role": "user"
+    },
+    {
+      "id": "uj8t8r9uz",
+      "nom": "yusuf",
+      "address": "yusuf",
+      "email": "yusuf@gmail.com",
+      "motDePasse": "yusuf",
+      "role": "user"
+    },
+    {
+      "id": "tf9fcm1hn",
+      "nom": "mamy",
+      "address": "pikine",
+      "email": "mamy@gmail.com",
+      "motDePasse": "mamy",
+      "role": "user"
+    },
+    {
+      "nom": "bidou",
+      "address": "yeumbeul",
+      "email": "bidou@gmail.com",
+      "motDePasse": "bidou",
+      "role": "user",
+      "id": "InUza5AZXXU"
     }
   ],
   "produits": [
@@ -775,7 +799,7 @@
     {
       "id": "f4fs07xh8",
       "produitId": 8,
-      "quantite": 1,
+      "quantite": 2,
       "taille": null,
       "couleur": null
     }

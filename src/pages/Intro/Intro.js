@@ -2,7 +2,6 @@ import { footer } from '../../components/Footer.js';
 import { carteProduit, attacherActionsProduits } from '../../components/ProductGrid.js';
 import { API_BASE } from '../../config.js';
 
-  //<img src="/public/images/tournesol.jpg" alt="Summer Edit" class="hero-bg">
 
 const Intro = () => `
    <!-- HERO -->
